@@ -7,7 +7,7 @@
  * Author: anonymiz
  * Author URI: http://www.anonymiz.com/
  * License: GPL http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
- */
+ 
 
 
 Anonymiz Hide Referer is a plugin to Hide your referer on all external links with ssl and without ssl, eg: https://www.anonymiz.com/?http://yoursite.com/.
