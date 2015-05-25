@@ -5,7 +5,7 @@
  * Description: Anonymiz Hide Referer is a plugin to Hide your referer on all external links, eg: https://www.anonymiz.com/?http://yoursite.com/.
  * Version: 1.0
  * Author: anonymiz
- * Author URI: http://www.anonymiz.com/
+ * Author URI: https://www.anonymiz.com/
  * Tags: link anonymizer , hide referrer, anonymous link , anonym , dereferer , mask, anonymz , blank referrer, referral, logs, visitors, privacy
  * License: GPL http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
  
