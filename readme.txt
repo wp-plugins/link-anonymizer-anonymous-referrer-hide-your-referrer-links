@@ -6,6 +6,7 @@
  * Version: 1.0
  * Author: anonymiz
  * Author URI: http://www.anonymiz.com/
+ * Tags: link anonymize, anonymise, mask, hide referrer, blank referrer, referral, logs, visitors, privacy
  * License: GPL http://www.gnu.org/licenses/license-list.html#GPLCompatibleLicenses
  
 
