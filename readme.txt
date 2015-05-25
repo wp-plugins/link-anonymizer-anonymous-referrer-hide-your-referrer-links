@@ -15,6 +15,8 @@ eg: https://www.anonymiz.com/?http://yoursite.com/.
 == Description ==
 ≠ Anonymize your external links with anonymiz.com with ssl support 
 
+Bug Report: https://www.anonymiz.com/contact.html
+
 Most of the other plugins wont support ssl our anonymiz wordpress plugin support with ssl all external links with ssl and none ssl link will redirect from your wordpress site.
 
 Webmasters can use this tool to prevent their site from appearing in the server logs of referred pages as referrer. The operators of the referred pages cannot see where their visitors come from any more.
