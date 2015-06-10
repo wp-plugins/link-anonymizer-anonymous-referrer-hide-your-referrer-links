@@ -1,4 +1,5 @@
 === Anonymiz Hide Referer  ===
+Contributors: anonymiz
 /**
  * Plugin Name: Link Anonymizer
  * Plugin URI: http://www.anonymiz.com/plugins/
