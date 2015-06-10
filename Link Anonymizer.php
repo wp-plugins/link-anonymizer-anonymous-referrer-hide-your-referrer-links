@@ -32,7 +32,7 @@ class AnonymizHideReferer
 
     public static function init() {
         if (!self::$instance) {
-            self::$instance = new WPHideReferer();
+            self::$instance = new AnonymizHideReferer();
         }
 
         return self::$instance;
